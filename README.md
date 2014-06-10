@@ -1,4 +1,4 @@
 routie-jar
 ==========
 
-WebJar for Routie
+A webjar (http://www.webjars.org/) for the Routie (http://projects.jga.me/routie/) library.
